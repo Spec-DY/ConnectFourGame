@@ -1,7 +1,8 @@
 # Connect Four
 This is a classic connect four game in Java
 ## How to run the file
-Go to the directory where `connectFour.jar` is located.<br>
+Download from release<br>
+Open the console where`connectFour.jar` is located.<br>
 excecute:
 `java -jar connectFour.jar`
 
